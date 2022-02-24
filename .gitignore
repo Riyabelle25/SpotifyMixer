@@ -1,3 +1,6 @@
 # created by virtualenv automatically
 py3
 .env
+.cache
+.cache-bzo14hlkd2xdt5odh1fjzppnk
+.ipynb_checkpoints
